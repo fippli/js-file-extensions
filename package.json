@@ -1,14 +1,14 @@
 {
-  "name": "@fippli/remove-file-extension",
+  "name": "@fippli/file-extensions",
   "version": "0.0.1",
-  "description": "javascript function to remove file extension of filename",
+  "description": "JavaScript file extension library",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/fippli/remove-file-extension.git"
+    "url": "git+ssh://git@github.com/fippli/js-file-extensions.git"
   },
   "author": "Filip Johansson",
   "license": "MIT",

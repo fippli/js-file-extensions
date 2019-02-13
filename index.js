@@ -1,2 +1,5 @@
 // Remove file extensions
-module.exports = require('./src/removeFileExtension');
+module.exports = {
+  remove: require('./src/removeFileExtension'),
+  replace: require('./src/replaceFileExtension'),
+};

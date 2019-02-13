@@ -1,2 +1,8 @@
-# remove-file-extension
-Remove file extension JavaScript
+# Remove File Extension
+Remove file extensions JavaScript.
+
+## Usage
+```JavaScript
+removeFileExtension('filename.ext')
+// => 'filename'
+```

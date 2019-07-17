@@ -16,7 +16,7 @@
     "url": "https://github.com/fippli/remove-file-extension/issues"
   },
   "homepage": "https://github.com/fippli/remove-file-extension#readme",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^24.1.0"
   }
 }
